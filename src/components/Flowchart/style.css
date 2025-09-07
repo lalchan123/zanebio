@@ -1,0 +1,37 @@
+/* Diamond Container */
+.diamond-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+/* Diamond Shape */
+.diamond {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  transform: rotate(45deg);
+  background-color: #3498db;
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+
+/* Centered Text */
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 10px;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.CodeMirror {
+  font-family: Arial, monospace;
+  font-size: 12px;
+}

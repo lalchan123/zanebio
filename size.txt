@@ -1,0 +1,13 @@
+{formSize === "small"
+            ? parseInt(imageSize.width) >= 401
+              ? "Image Size Invalid !"
+              : ""
+            : formSize === "medium"
+            ? parseInt(imageSize.width) >= 701
+              ? "Image Size Invalid !"
+              : ""
+            : formSize === "big"
+            ? parseInt(imageSize.width) >= 1201
+              ? "Image Size Invalid !"
+              : ""
+            : ""}

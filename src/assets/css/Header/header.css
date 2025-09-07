@@ -1,0 +1,125 @@
+
+/* Header Responsive Design CSS Start */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    /* div.Lottie.headerLogoAnimation {
+        margin-top: 25%;
+        max-width: 800px;
+        max-height: 170px;
+    } */
+
+    img.noratingLogo {
+        margin-top: 20%;
+        margin-left: 1%;
+        padding-right: 1%;
+        padding: 4%;
+        background-color: #F5F5F5;
+    }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    /* .headerLogoAnimation {
+        margin-top: 25%;
+        max-width: 800px;
+        max-height: 100px;
+    } */
+
+    img.noratingLogo {
+        margin-top: 20%;
+        margin-left: 1%;
+        padding-right: 1%;
+        padding: 4%;
+        background-color: #F5F5F5;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    /* .headerLogoAnimation {
+        max-height: 10%;
+        max-width: 100%;
+        margin-top: 5px;
+    } */
+    
+    img.noratingLogo {
+        max-width: 150px;
+        max-height: 41px;
+        padding-top: 13px;
+        padding-left: 9px;
+        padding: 18px;
+        padding-right: 50px;
+        background-color: #F5F5F5;
+        margin-top: 15px;
+        margin-left: -60%;
+    }
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+    /* div.Lottie.headerLogoAnimation {
+        max-height: 50%;
+        max-width: 100%;
+        margin-top: 15px;
+    } */
+    
+    img.noratingLogo {
+        max-width: 150px;
+        max-height: 60px;
+        padding-top: 13px;
+        padding-left: 9px;
+        padding: 20px;
+        padding-right: 50px;
+        background-color: #F5F5F5;
+        margin-top: 15px;
+        margin-left: -80%;
+    }
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    /* div.headerLogoAnimation {
+        max-height: 50%;
+        max-width: 100%;
+        margin-top: 15px;
+    } */
+    
+    img.noratingLogo {
+        max-width: 150px;
+        max-height: 60px;
+        padding-top: 13px;
+        padding-left: 9px;
+        padding: 20px;
+        padding-right: 50px;
+        background-color: #F5F5F5;
+        margin-top: 15px;
+        margin-left: -95%;
+    }
+
+}
+
+
+Button.AppbarMenuButton{
+    color: black;
+}
+
+
+Button.AppbarMenuButton:hover{
+    color:#F5F5F5;
+}
+
+span.AppbarMenuSpanBracket{
+    color:black;
+}
+
+
+
+
+/* Header Responsive Design CSS end */
+

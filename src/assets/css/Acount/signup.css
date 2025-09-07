@@ -1,0 +1,26 @@
+.signin{
+    background-image: linear-gradient(to bottom right, #012D40,#17688B, #8ED3F0, #A9E6FF);
+}
+
+.sign-info-heading{
+    color: #fff;
+    font-size: 40px;
+    font-family: Montserrat,sans-serif;
+    font-weight: 400;
+    line-height: 1.4;
+    text-align: center;
+    padding-top: 60px;
+    
+}
+
+.sign-info-box{
+    background-color: #EDF6FA;
+    width: 610px;
+    height: 700px;
+    margin-left: 350px;
+    padding: 40px 40px 40px 40px;
+    border-radius: 1%;
+    box-sizing: border-box;
+    box-shadow: #a5a9ab;
+}
+

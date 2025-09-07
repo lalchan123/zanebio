@@ -1,0 +1,8 @@
+.Image{
+    background-image: url('../../images/hero-background.svg');
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 0px 0px 16px 16px;
+}

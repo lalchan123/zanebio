@@ -1,0 +1,31 @@
+Button.SignIn{
+    margin-top: 10px;
+    background-color: #1A5A76;
+    font-weight: bold;
+    font-size: 16px;
+    font-variant-caps: normal;
+}
+Button{
+    height: 50px;
+    width: 120px;
+}
+
+.SignIn-Modal-Heading{
+    color: black;
+    font-size: 30px;
+    font-family: Montserrat,sans-serif;
+    font-weight: 400;
+    line-height: 1.4;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.DialogueSignInForget{
+    margin-top: 15px;
+}
+.DialogueSignInForget:hover{
+    color: #F5A97E;
+}
+.DialogueSignInLink:hover{
+    color: #f59e1a;
+}

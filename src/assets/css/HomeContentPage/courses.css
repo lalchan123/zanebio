@@ -1,0 +1,129 @@
+.courseSlogan{
+    padding-top: 20px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 30px;
+    color: #546e7a;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.courseSloganHeading{
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 30px;
+    color: #64b701;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.BoxCard{
+    box-shadow: 0 9px 21px 0 rgb(0 0 0 / 15%);
+    cursor: pointer;
+    border-radius: 25px;
+    transition: .2s;
+}
+.BoxCard:hover{
+    border: 2px solid blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .CourseBox{
+    max-width: 400px;
+    height: 100%;
+    position: relative;
+    padding: 40px;
+    border-radius: 25px;
+    transition: .2s;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    background-color: #fff;
+    box-shadow: 0 9px 21px 0 rgb(0 0 0 / 15%);
+}
+.CourseBox:hover{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+    max-width: 95%;
+    padding-left: 10px !important;
+    padding-right: 10px !important
+}
+
+
+.BoxHeader{
+    color: #546e7a;
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    font-family: Montserrat,sans-serif;
+    text-align: center;
+}
+.BoxDollar{
+    color: #64b701;
+    margin: 20px;
+}
+
+.ratingStar{
+    font-size: 70px;
+    letter-spacing: .06em;
+    color: rgb(205, 89, 7);
+}
+
+.boxReview{
+    font-size: 15px;
+    margin-top: -35px;
+}
+.boxTicketApprove{
+    font-size: 18px;
+    text-align: left;
+    margin-left: -25px;
+    margin-right: -25px;
+    letter-spacing: normal;
+}
+
+.boxDownloadable{
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: left;
+    margin-left: -25px;
+    margin-right: -25px;
+    letter-spacing: normal;
+    color: chocolate;
+}
+
+Button.BoxButton{
+    width: 200px;
+}
+Button.BoxButton:hover{
+    width: 200px;
+    background-color:rgb(205, 89, 7);
+    color: aqua;
+}
+
+.boxAge{
+    font-size: 18px;
+    color: green;
+} */
